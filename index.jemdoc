@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Alexandre Reiffers-Masson
+
+~~~
+{}{img_left}{alex.jpg}{alt text}{400}
+Assistant Professor\n
+[https://www.imt-atlantique.fr/en/school/departments/computer-sciences Department of  Computer Science]\n
+IMT Atlantique Bretagne-Pays de la Loire\n
+Campus de Brest\n
+29238 Brest cedex 03\n\n
+Email: firstname.reiffers-masson@imt-atlantique.fr\n
+~~~
+
+== News
+
+~~~
+- May 12, 2020: Teaching Statistical Inference of complex networks.
+- April 20, 2020: Invited paper at SPCOM 2020.
+- April 10, 2020: Participating to the course Game theory and agent-based modeling.
+~~~
+
+== Short Bio
+
+Alexandre Reiffers is an assistant professor at IMT Atlantique (Brest). He was previously a post-doctoral fellow at Robert Bosch Centre for Cyber Physical Systems.
+He received the B.Sc. degree in mathematics (2010) from the university of Marseille,
+the master degree in applied mathematics (2012) from the university of Pierre et Marie CURIE and
+the Ph.D. degree in computer science (January 2016) from the INRIA (National research institute in
+computer science and control) and the university of Avignon. His supervisors were Eitan Altman and Yezekael Hayel.
+From July 2016 to December 2017, Alexandre Reiffers was a researcher at SafranTech where
+he was working on comparison of maintenance strategies.
+
+Most of his research projects concern the application of mathematical tools
+(game theory, optimization, stochastic process and machine learning)
+for a better understanding of real-world problems.
+The different issues that he studies touch topics such as networks, economy and manufacturing.
+
+== Recent Publications
+
+=== Chapter in books
+-  A Net Neutrality Perspective for Content Down-Streaming over the Internet. Alexandre Reiffers-Masson,
+ Yezekael Hayel, Eitan Altman & Tania Jimenez. (2019).
+ In Multilevel Strategic Interaction Game Models for Complex Networks (pp. 239-259). Springer, Cham.
+
+=== Journal Articles
+- Blockchain competition between miners: a game theoretic perspective.
+Eitan Altman, Daniel Sadoc Menasche, Alexandre Reiffers, Mandar Datar, Swapnil Dhamal, Corinne Touati, and Rachid El-Azouzi.
+"" Frontiers in Blockchain 2 (2019): 26.
+
+=== Conference Proceedings
+- Worst-case drift detection of sensor networks: performances and algorithms. Alexandre Reiffers. SPCOM2020
+
+=== Preprints
+
+- Reputation-Based Information Design for Inducing Prosocial Behavior. Alexandre Reiffers-Masson, Rajesh Sundaresan
+- Opinion shaping in social networks using reinforcement learning. Vivek Borkar, Alexandre Reiffers-Masson
+
+[https://scholar.google.com/citations?user=OBmvq4QAAAAJ&hl=en Publications in Google Scholar.]
+

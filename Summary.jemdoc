@@ -1,0 +1,83 @@
+# jemdoc: menu{MENU}{summary.html}
+= Recent Research
+#~~~
+#== Study of social networks through stochastic processes and game theory
+#In DSL networks, DSL amplifiers and multiplexers limit the maximum rate for individual modems using a set of parameters defined as profiles. To optimize the network performance, profiles need to be adapted to the individual line conditions. Large scale optimizations over a highly heterogeneous DSL network can be sensitive to behavior of the individual components of the network. The two major challenges are configuring profile optimization to enhance network performance, and network monitoring to avoid any adverse effect of a centralized optimization. %Machine learning algorithms can be utilized to monitor the network performance.
+#A direct way of improving communication performance over DSL lines is to detect and cancel non-stationary impulse noise. It is very difficult to design a unique filter for every impulse type. Therefore, one can classify impulses into categories and trigger the filter on detection of an associated impulse category.
+
+#~~~
+
+~~~
+== Nudges for Inducing Prosocial Behavior
+
+
+=== Information Design
+
+In this work, we investigate, by designing the reputation benefit, how much it is possible to increase the prosocial behavior of a set of agents. Our framework is based on a mean-field Bayesian game.
+
+- Reputation-Based Information Design for Inducing Prosocial Behavior. Alexandre Reiffers-Masson, Rajesh Sundaresan
+
+=== Opinion shaping
+
+The goal is to get agents to adopt more pro-social behaviour by targeting them through social advertising. However the topology of the social network is unknown, but we have partial observations while monitoring some agents. We have proposed “reinforcement learning” algorithms for the dissemination/adoption of practices or opinions in a network where topology is unknown.
+
+- Opinion shaping in social networks using reinforcement learning. Vivek Borkar, Alexandre Reiffers-Masson
+
+
+~~~
+
+~~~
+== Study of social networks through stochastic processes and game theory
+In this line of research, we applied the game theory and stochastic processes to model the competition over popularity and visibility in social networks.
+
+=== Algorithmic contributions
+
+The topic here is to use telecommunication modeling tools to model and shape the timeline in social networks. Typical results are the design of Qoe-enhancing algorithms and the evidence of convergence of these algorithms towards the optimal solution.
+
+- Posting behavior in Social Networks and Content Active Filtering.Alexandre Reiffers-Masson, Eitan Altman and Yezekael Hayel. International Workshop on Dynamics in Networks (DyNo2015), in conjunction with IEEE/ACM ASONAM 2015, 2015.
+- Timelines are Publisher-Driven Caches: Analyzing and Shaping Timeline Networks. Alexandre Reiffers-Masson, Eduardo Hargreaves, Eitan Altman, Wouter Caarls, Daniel S. Menasche. ACM Performance Evaluation Review (NetEcon Special issue) 2017.
+- Posting behaviour Dynamics and Active Filtering for Content Diversity in Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. IEEE Transactions on Signal and Information Processing over Networks 2017.
+- A Generalized Fractional Program for Maximizing Content Popularity in Online Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman and Guillaume Marrel. FAB, in conjunction with IEEE/ACM ASONAM 2018, 2018.
+
+=== Game theory contributions
+
+The topic here is the study of competition over popularity using game theoretical tools. We are able to study the properties of Nash’s equilibria, of the price of anarchy and to obtain a better understanding of the possible problems induced by a competition for popularity.
+
+- Game theory approach for modeling competition over visibility on social networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. Communication Systems and Networks (COMSNETS), 2014.
+- Differential Games of Competition in Online Content Diffusion. Francesco De Pellegrini, Alexandre Reiffers-Masson, Eitan Altman. IFIP Networking, 2014.
+- A Time and Space Routing Game Model applied to Visibility Competition on Online Social NetworksAlexandre Reiffers-Masson, Eitan Altman, Yezekael Hayel. NetGCOOP 2014: International conference on NETwork Games, COntrol and OPtimization, 2014.
+
+=== Data extraction/analysis contributions
+
+We have studied how to estimate the popularity and visibility in social networks. We also studied the bias in the filtering algorithm.
+
+- A Study of YouTube recommendation graph based on measurements and stochastic tools.Yonathan Portilla, Alexandre Reiffers-Masson , Eitan Altman and Rachid El-Azouzi. 3rd International workshop on Big Data and Social Networking Man- agement and Security, in conjunction with IEEE/ACM UCC 2015, 2015.
+- Fairness in online social network timelines: Measurements, models and mechanism design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, Performance Evaluation 129, 15-39
+- Fairness in Online Social Network Timelines: Measurements, Models and Mechanism Design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, E.IFIP Performance 2018, 2018.
+- Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, E. Biases in the Facebook News Feed: a Case Study on the Italian Elections. FOSINT-SI, in conjunction with IEEE/ACM ASONAM 2018, 2018.
+
+~~~
+
+
+
+
+#= Other Research
+
+#~~~
+#=== Quantization for Positive Random Variables with Infinite Support
+
+#Efficient quantization schemes exist for random variables with bounded support. We explore quantization at a more fundamental level, focusing on positive random variables of unbounded support. We exploit established properties of Banach spaces, together with the boundedness of probability measures, to provide bounds on the number of bits necessary to achieve a desired level of performance.
+
+#- P.~Parag and [http://ece.tamu.edu/~chmbrlnd/ J.-F.~Chamberland]. Exploiting an Interplay between Norms to Analyze Scalar Quantization Schemes. /IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, Prague, Czech Republic, May 22-25, 2011. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5947285 ieeexlpore]. [papers/ICASSP-2011.pdf paper]. [slides/ICASSP-2011.pdf slides].
+
+#~~~
+
+
+~~~
+#=== Subcarrier Allocation for OFDMA
+
+#In multi-user OFDMA systems, users see diverse realizations of the multiple subcarriers. For elastic traffic, a new subcarrier allocation algorithm was proposed, that exploits this diversity gain when buffer and channel state information are available at the transmitter. The proposed algorithm was shown to improve throughput performance when compared to existing algorithms.
+
+#- P.~ Parag, [http://ee.iitm.ac.in/~skrishna/ S.~Bhashyam], and [http://ee.iitm.ac.in/~aravind R.~Aravind]. A subcarrier allocation algorithm for OFDMA using buffer and channel state information. /IEEE 62nd Vehicular Technology Conference/, 62 (1):622--625, September 2005. [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1557987 ieeexlpore]. [papers/VTC-2005.pdf paper]. [slides/VTC-2005.pdf slides].
+
+~~~

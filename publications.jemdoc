@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= Publications
+
+- [https://sites.google.com/site/alexandrereiffers/ Google Scholar Page]
+- [https://www.researchgate.net/profile/Alexandre_Reiffers-Masson Research Gate Page]
+- [https://dblp.org/pers/r/Reiffers:Alexandre.html dblp Page]
+
+
+== Chapters in Book
+- A Net Neutrality Perspective for Content Down-Streaming over the Internet. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman & Tania Jimenez. (2019). In Multilevel Strategic Interaction Game Models for Complex Networks (pp. 239-259). Springer, Cham.
+
+== Preprints
+
+- Reputation-Based Information Design for Inducing Prosocial Behavior. Alexandre Reiffers-Masson, Rajesh Sundaresan
+- Opinion shaping in social networks using reinforcement learning. Vivek Borkar, Alexandre Reiffers-Masson
+
+== Journals
+
+- Opinion-Based Centrality in Multiplex Networks: A Convex Optimization Approach. Alexandre Reiffers-Masson, Vincent Labatut. Accepted in Network Science2017 .
+- Timelines are Publisher-Driven Caches: Analyzing and Shaping Timeline Networks. Alexandre Reiffers-Masson, Eduardo Hargreaves, Eitan Altman, Wouter Caarls, Daniel S. Menasche. ACM Performance Evaluation Review (NetEcon Special issue) 2017.
+- Posting behaviour Dynamics and Active Filtering for Content Diversity in Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. IEEE Transactions on Signal and Information Processing over Networks 2017.
+- Fairness in online social network timelines: Measurements, models and mechanism design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, Performance Evaluation 129, 15-39
+- Blockchain competition between miners: a game theoretic perspective. Eitan Altman, Daniel Sadoc Menasche, Alexandre Reiffers, Mandar Datar, Swapnil Dhamal, Corinne Touati, and Rachid El-Azouzi. "" Frontiers in Blockchain 2 (2019): 26.
+
+== International Conferences
+- Collusions entre fournisseurs de services et de contenus dans les réseaux. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. Rencontres Francophones pour les Aspects Algorithmiques des Télécommunications 2013.
+- Game theory approach for modeling competition over visibility on social networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. Communication Systems and Networks (COMSNETS), 2014.
+- Differential Games of Competition in Online Content Diffusion. Francesco De Pellegrini, Alexandre Reiffers-Masson, Eitan Altman. IFIP Networking, 2014.
+- A Time and Space Routing Game Model applied to Visibility Competition on Online Social NetworksAlexandre Reiffers-Masson, Eitan Altman, Yezekael Hayel. NetGCOOP 2014: International conference on NETwork Games, COntrol and OPtimization, 2014.
+- Coordination of epidemic control policies: A game theoretic perspective. Lorenzo Maggi, Francesco De Pellegrini, Alexandre Reiffers-Masson, P. J. J. Herings, and Eitan Altman. NetGCOOP 2014: International conference on NETwork Games, COntrol and OPtimization, 2014.
+- Posting behavior in Social Networks and Content Active Filtering.Alexandre Reiffers-Masson, Eitan Altman and Yezekael Hayel. International Workshop on Dynamics in Networks (DyNo2015), in conjunction with IEEE/ACM ASONAM 2015, 2015.
+- A Study of YouTube recommendation graph based on measurements and stochastic tools.Yonathan Portilla, Alexandre Reiffers-Masson , Eitan Altman and Rachid El-Azouzi. 3rd International workshop on Big Data and Social Networking Man- agement and Security, in conjunction with IEEE/ACM UCC 2015, 2015.
+- Controlling the Katz-Bonacich Centrality in Social Network: Application to gossip in Online Social Networks Alexandre Reiffers-Masson, Eitan Altman and Yezekael Hayel. International workshop on Big Data and Social Networking Management and Security, in conjunction with IEEE/ACM UCC 2015, 2015.
+- Adversarial bandit for online interactive learning of zero-shot spoken language understanding. Emmanuel Ferreira, Alexandre Reiffers-Masson, Bassam Jabaian and Fabrice Lefevre. ICASSP 2016.
+- Timelines are Publisher-Driven Caches: Analyzing and Shaping Timeline Networks. Alexandre Reiffers-Masson, Eduardo Hargreaves, Eitan Altman, Wouter Caarls, Daniel S. Menasche. In NetEcon 2016.
+- Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, E. Biases in the Facebook News Feed: a Case Study on the Italian Elections. FOSINT-SI, in conjunction with IEEE/ACM ASONAM 2018, 2018.
+- A Generalized Fractional Program for Maximizing Content Popularity in Online Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman and Guillaume Marrel. FAB, in conjunction with IEEE/ACM ASONAM 2018, 2018.
+- Fairness in Online Social Network Timelines: Measurements, Models and Mechanism Design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, E.IFIP Performance 2018, 2018.
+- Mining competition in a multi-cryptocurrency ecosystem at the network edge: a congestion game approach Eitan Altman, Alexandre Reiffers-Masson, Daniel Sadoc Menasché, Mandar Datar, Corinne Touati and Swapnil Dhamal. Socca, in conjuction with IFIP Performance 2018, 2018.
+
+
+

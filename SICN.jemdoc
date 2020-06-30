@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{SICN.html}, showsource
+= Statistical Inference in Complex networks
+
+In this course, we will introduce statistical methods to infer properties of large complex networks.
+Firstly, we will study how to learn standard properties of a network such as its diameter or connectivity.
+These properties are always useful to know, independently of their applications.
+Precisely, we will focus on two specific categories of networks, epidemic networks and telecom networks.
+In such networks, understanding general properties are not enough and specific problems have to be solved.
+In the case of epidemic network, we will study how to model the propagation of an epidemic and how we can estimate the parameter of our model.
+We will also show how to identify the source of an epidemic (patient zero).
+Concerning engineering/telecom networks, we will teach you how to estimate the delay of communication on each link, in a telecom network.
+We will study how to detect the failure of a link. In this course, we will provide answers to all these questions, problems, using statistic and probability theory.
+It will be a combination of theory and practical assignments, where you will be asked to program different estimators on a real network.
+
+== Syllabus
+
+- 19 Apr 2020: lecture-00 (Stanford videos) [https://www.youtube.com/playlist?list=PL1X1L0Ph7yrbcusN74uru7XTkUcv5x-aj Introduction] and
+lecture-01 (IMT-Atlantique videos) [https://www.youtube.com/playlist?list=PLwjlrTwbdRdqFp0xYgFb7-TnHtqJy5XGq Sampling and Estimation in Hidden Populations]
+- 3 May 2020: lecture-02 (Stanford Videos) [https://www.youtube.com/playlist?list=PL1X1L0Ph7yraovgGn9m5-HjGdmpc3Y6yF Centrality measures and random networks]
+- 10 May 2020: lecture-03 (Stanford Videos) [https://www.youtube.com/playlist?list=PLyWV78uazzEctTFgXvENMan8U0JwW2JkS Spectral clustering]
+and lecture-04 (IMT-Atlantique videos) [https://www.youtube.com/playlist?list=PLwjlrTwbdRdrhc7K52jkEjGChK9FuPbtn Adaptive identification of weak links].
