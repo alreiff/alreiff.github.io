@@ -14,8 +14,6 @@ Email: firstname.reiffers-masson@imt-atlantique.fr\n
 == News
 
 ~~~
-- I'm one of the poster session chair for the conference [https://www.sigmetrics.org/sigmetrics2022/posters.html Sigmetrics].
-- October 1, 2021: Colin Troisemaine started his Ph.D. untitled "Exploratory methods for the diagnosis of networks".
 - Welcome to Navdeep Kumar, who will stay at IMT Atlantique for 6 months. Topic: Stochastic model of IOTA's distributed ledgers.
 - Our work, regarding the distributed ledger IOTA has been accepted to UNET2021 [https://www.researchgate.net/profile/Alexandre-Reiffers-Masson/publication/349916426_Utility_maximisation_in_the_Coordinator-less_IOTA_Tangle/links/604737a3a6fdcc9c7821aa17/Utility-maximisation-in-the-Coordinator-less-IOTA-Tangle.pdf (Paper)].
 - Our work, with [https://sites.google.com/site/yezekaelhayelsite/ Yezekael Hayel] and [https://dblp.org/pid/72/1746.html Thierry Chonavel] regarding distributed algorithms to compute eigenvalues has been accepted to ICASSP2021 [https://www.researchgate.net/profile/Alexandre-Reiffers-Masson/publication/344831777_Estimating_Fiedler_value_on_large_networks_based_on_random_walk_observations/links/5f92997092851c14bcdee51e/Estimating-Fiedler-value-on-large-networks-based-on-random-walk-observations.pdf (Paper)].
@@ -52,7 +50,6 @@ Eitan Altman, Daniel Sadoc Menasche, Alexandre Reiffers, Mandar Datar, Swapnil D
 "" Frontiers in Blockchain 2 (2019): 26.
 
 === Conference Proceedings
-- [https://www.researchgate.net/profile/Alexandre-Reiffers-Masson/publication/349916426_Utility_maximisation_in_the_Coordinator-less_IOTA_Tangle/links/604737a3a6fdcc9c7821aa17/Utility-maximisation-in-the-Coordinator-less-IOTA-Tangle.pdf Estimating Fiedler value on large networks based on random walk observations.] Mathilde Jay, Ambre Mollard, Ye Sun, Ruyi Zheng, Isabel Amigo, Alexandre Reiffers-Masson, Santiago Rincón. UNET 2021
 - [https://www.researchgate.net/profile/Alexandre-Reiffers-Masson/publication/344831777_Estimating_Fiedler_value_on_large_networks_based_on_random_walk_observations/links/5f92997092851c14bcdee51e/Estimating-Fiedler-value-on-large-networks-based-on-random-walk-observations.pdf Estimating Fiedler value on large networks based on random walk observations.] Alexandre Reiffers-Masson, Thierry Chonavel, Yezekael Hayel. ICASSP 2021
 - Worst-case drift detection of sensor networks: performances and algorithms. Alexandre Reiffers. SPCOM2020
 

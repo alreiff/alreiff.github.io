@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}, showsource
 = Publications
 
-- [https://sites.google.com/site/alexandrereiffers/ Google Scholar Page]
+- [https://scholar.google.com/citations?user=OBmvq4QAAAAJ&hl=en Google Scholar Page]
 - [https://www.researchgate.net/profile/Alexandre_Reiffers-Masson Research Gate Page]
 - [https://dblp.org/pers/r/Reiffers:Alexandre.html dblp Page]
 
@@ -20,7 +20,8 @@
 - Timelines are Publisher-Driven Caches: Analyzing and Shaping Timeline Networks. Alexandre Reiffers-Masson, Eduardo Hargreaves, Eitan Altman, Wouter Caarls, Daniel S. Menasche. ACM Performance Evaluation Review (NetEcon Special issue) 2017.
 - Posting behaviour Dynamics and Active Filtering for Content Diversity in Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. IEEE Transactions on Signal and Information Processing over Networks 2017.
 - Fairness in online social network timelines: Measurements, models and mechanism design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, Performance Evaluation 129, 15-39
-- Blockchain competition between miners: a game theoretic perspective. Eitan Altman, Daniel Sadoc Menasche, Alexandre Reiffers, Mandar Datar, Swapnil Dhamal, Corinne Touati, and Rachid El-Azouzi. "" Frontiers in Blockchain 2 (2019): 26.
+- Blockchain competition between miners: a game theoretic perspective. Eitan Altman, Daniel Sadoc Menasche, Alexandre Reiffers, Mandar Datar, Swapnil Dhamal, Corinne Touati, and Rachid El-Azouzi. Frontiers in Blockchain 2 (2019): 26.
+- Opinion shaping in social networks using reinforcement learning. Vivek Borkar and Alexandre Reiffers. IEEE Transactions on Control of Network Systems (2021).
 
 == International Conferences
 - Collusions entre fournisseurs de services et de contenus dans les réseaux. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman. Rencontres Francophones pour les Aspects Algorithmiques des Télécommunications 2013.
@@ -37,6 +38,8 @@
 - A Generalized Fractional Program for Maximizing Content Popularity in Online Social Networks. Alexandre Reiffers-Masson, Yezekael Hayel, Eitan Altman and Guillaume Marrel. FAB, in conjunction with IEEE/ACM ASONAM 2018, 2018.
 - Fairness in Online Social Network Timelines: Measurements, Models and Mechanism Design. Hargreaves, E., Agosti, C., Menasché, D., Neglia, G., Reiffers-Masson, A., & Altman, E.IFIP Performance 2018, 2018.
 - Mining competition in a multi-cryptocurrency ecosystem at the network edge: a congestion game approach Eitan Altman, Alexandre Reiffers-Masson, Daniel Sadoc Menasché, Mandar Datar, Corinne Touati and Swapnil Dhamal. Socca, in conjuction with IFIP Performance 2018, 2018.
-
+- Worst-case drift detection of sensor networks: performances and algorithms. Alexandre Reiffers-Masson. 2020 International Conference on Signal Processing and Communications (SPCOM). IEEE, 2020.
+- Estimating Fiedler value on large networks based on random walk observations. Alexandre Reiffers-Masson, Thierry Chonavel, and Yezekael Hayel. ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.
+- Multi-page Menu Recommendation in Cascade Model with Externalities. Richa Dhingra, Satyam Hansraj Verma, Alexandre Reiffers-Masson, and Kavitha Veeraruna. In 2021 60th IEEE Conference on Decision and Control (CDC), pp. 6614-6619. IEEE, 2021.
 
 

@@ -8,26 +8,20 @@
 #~~~
 
 
+
 ~~~
 == Safe and robust algorithms in distributed systems
 
-In this research line, we are developping and analyzing new distributed algorithms, based on stochastic approximations and reinforcement learning, to solve resource allocations problems, drift detection and eigenvectors computation.  
+=== Utility maximization in the Tangle
 
-=== Decentalized Estimation of Eigenvalues.
+- Reputation-Based Information Design for Inducing Prosocial Behavior. Alexandre Reiffers-Masson, Rajesh Sundaresan
 
-- Estimating Fiedler value on large networks based on random walk observations. Alexandre Reiffers-Masson, Thierry Chonavel, Yezekael Hayel.
+=== Sensor estimation and routing. Estimation and tracking the optimal failure. 
 
-=== Drift detection in time-series.
-
-- Worst-case drift detection of sensor networks: performances and algorithms. Alexandre Reiffers-Masson.
-
-=== Distributed Resource Allocations
-
-- A Backpropagation Approach for Distributed Resource Allocation. Alexandre Reiffers-Masson, Nahum Shimkin, Daniel Sadoc Menasche, Eitan Altman.
-
-- Utility maximisation in the Coordinator-less IOTA Tangle. Mathilde Jay, Ambre Mollard, Ye Sun, Ruyi Zheng, Isabel Amigo, Alexandre Reiffers-Masson, Santiago Ruano Rincón.
-
+=== Decentalized estimation of Eigenvalues
+- 
 ~~~
+
 
 ~~~
 == Nudges for Inducing Prosocial Behavior
