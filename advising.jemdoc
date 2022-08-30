@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{summary.html}
 = Recent Research
 #~~~
-#== Study of social networks through stochastic processes and game theory
+#== Study of social networks through stochastic processes, game theory and optimal control
 #In DSL networks, DSL amplifiers and multiplexers limit the maximum rate for individual modems using a set of parameters defined as profiles. To optimize the network performance, profiles need to be adapted to the individual line conditions. Large scale optimizations over a highly heterogeneous DSL network can be sensitive to behavior of the individual components of the network. The two major challenges are configuring profile optimization to enhance network performance, and network monitoring to avoid any adverse effect of a centralized optimization. %Machine learning algorithms can be utilized to monitor the network performance.
 #A direct way of improving communication performance over DSL lines is to detect and cancel non-stationary impulse noise. It is very difficult to design a unique filter for every impulse type. Therefore, one can classify impulses into categories and trigger the filter on detection of an associated impulse category.
 
