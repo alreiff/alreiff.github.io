@@ -14,7 +14,7 @@ This course will also have some lab sessions and we will provide code in python 
 
 === Part I: Provably efficient heuristics for solving large-scale resource allocation problems.
 
-- Day I: Introduction to resource allocation problem and MDP and Restless Bandit in Finite Horizon. [Slides https://github.com/alreiff/alreiff.github.io/blob/master/Presentation_ML_for_Resource_Allocation.pdf] [Lab https://colab.research.google.com/drive/1nN8sd1sWwjKZ1m87ffq6_xdPpWNf7ABt?usp=sharing]
+- Day I: Introduction to resource allocation problem and MDP and Restless Bandit in Finite Horizon. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentation_ML_for_Resource_Allocation.pdf Slides], [https://colab.research.google.com/drive/1nN8sd1sWwjKZ1m87ffq6_xdPpWNf7ABt?usp=sharing Lab]
 - Day II: Weakly coupled MDP and the resolving heuristic.
 - Day III: Constrained Finite Horizon Stochastic Optimization Problems.
 
