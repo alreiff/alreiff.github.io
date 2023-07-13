@@ -16,10 +16,9 @@ This course will also have some lab sessions and we will provide code in python 
 
 - Day I: Introduction to resource allocation problem and MDP and Restless Bandit in Finite Horizon. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentation_ML_for_Resource_Allocation.pdf Slides], [https://colab.research.google.com/drive/1nN8sd1sWwjKZ1m87ffq6_xdPpWNf7ABt?usp=sharing Lab], [https://colab.research.google.com/drive/1ARNmztOTYlYwnwtJfBAAZqW21brYf_3j?usp=sharing Correction]
 - Day II: Weakly coupled MDP and the resolving heuristic. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day2.pdf Slides], [https://colab.research.google.com/drive/1N9aObJsd900Br3K7ugOIDGp6cHVwm81K?usp=sharing Lab], [https://colab.research.google.com/drive/1aGeSiOZHYaI2g96p99L_hAMJMRG9WQFW?usp=sharing Correction]
-- Day II: Weakly coupled MDP and the resolving heuristic. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day3.pdf Slides]
-- Day III: Constrained Finite Horizon Stochastic Optimization Problems.
+- Day III: Constrained Finite Horizon Stochastic Optimization Problems. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day3.pdf Slides]
 
 == Part II: Machine Learning for Resource Allocation Problems 
 
-- Day IV: Online and Distributed algorithm for Resource Allocation Problem with unknown parameters.
-- Day V: Deep-learning applied to Resource Allocation Problems.
+- Day IV: Online and Distributed algorithm for Resource Allocation Problem with unknown parameters. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day4.pdf Slides]
+- Day V: Deep-learning applied to Resource Allocation Problems. [https://colab.research.google.com/drive/1aDWBjXM8DmsVuGCzI6YoaIEmb9D49Z2r?usp=sharing Lab]
