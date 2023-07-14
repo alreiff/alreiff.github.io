@@ -21,4 +21,5 @@ This course will also have some lab sessions and we will provide code in python 
 == Part II: Machine Learning for Resource Allocation Problems 
 
 - Day IV: Online and Distributed algorithm for Resource Allocation Problem with unknown parameters. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day4.pdf Slides]
-- Day V: Deep-learning applied to Resource Allocation Problems. [https://colab.research.google.com/drive/1aDWBjXM8DmsVuGCzI6YoaIEmb9D49Z2r?usp=sharing Lab]
+- Day V: Deep-learning applied to Resource Allocation Problems. [https://github.com/alreiff/alreiff.github.io/blob/master/Presentations_Resource_Allocation_CNI_2023_day5.pdf Slides] [https://colab.research.google.com/drive/1eLucZjX6HS_g-e2OFN3kxksDP6CUM6kf?usp=sharing Lab Learning Distribution]
+ [https://colab.research.google.com/drive/1aDWBjXM8DmsVuGCzI6YoaIEmb9D49Z2r?usp=sharing Lab RL]
